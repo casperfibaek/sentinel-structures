@@ -2,12 +2,12 @@
 
 Source files for the paper.
 
-Paper: "A Multi-Sensor Approach for Characterizing Human-Made Structures by Estimating Area, Volume and Population Based on Sentinel Data and Deep Learning"
-Journal: International Journal of Applied Earth Observation and Geoinformation
-Special Issue: Recent Advances in Geocomputation and GeoAI for Mapping
+Paper: "A Multi-Sensor Approach for Characterizing Human-Made Structures by Estimating Area, Volume and Population Based on Sentinel Data and Deep Learning"\
+Journal: International Journal of Applied Earth Observation and Geoinformation\
+Special Issue: Recent Advances in Geocomputation and GeoAI for Mapping\
 DOI: Pending publication (Accepted)
 
-License: AGPL
+License: AGPL\
 Dependencies: Buteo EO Toolkit (https://github.com/casperfibaek/buteo)
 
 Labels are available at:
