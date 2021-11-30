@@ -1,12 +1,11 @@
 # A Multi-Sensor Approach for Characterizing Human-Made Structures by Estimating Area, Volume and Population Based on Sentinel Data and Deep Learning
 
-Source files for the paper.
+Source files for the paper:
+    
+    Fibæk, Casper Samsø, Carsten Keßler, and Jamal Jokar Arsanjani. 2021. “A Multi-Sensor Approach for Characterising Human-Made Structures by Estimating Area, Volume and Population Based on Sentinel Data and Deep Learning.” International Journal of Applied Earth Observation and Geoinformation 105 (December): 102628. https://doi.org/10.1016/J.JAG.2021.102628.
 
-Paper: "A Multi-Sensor Approach for Characterizing Human-Made Structures by Estimating Area, Volume and Population Based on Sentinel Data and Deep Learning"\
-Journal: International Journal of Applied Earth Observation and Geoinformation\
+
 Special Issue: Recent Advances in Geocomputation and GeoAI for Mapping\
-DOI: Pending publication (Accepted)
-
 License: AGPL\
 Dependencies: Buteo EO Toolkit (https://github.com/casperfibaek/buteo)
 
